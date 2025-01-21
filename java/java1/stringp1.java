@@ -36,14 +36,15 @@ public class stringp1 {
     // System.out.println(--i);
     // System.out.println(i);
     
-    float f = 10.5f;
-    char c = 'a';
-    boolean b = true;
-    String str = "Hello";
-    System.out.println(++f);
-    System.out.println(++c);
+    // float f = 10.5f;
+    // char c = 'a';
+    // boolean b = true;
+    // String str = "Hello";
+    // System.out.println(++f);
+    // System.out.println(++c);
     //  System.out.println(b++);
     //  System.out.println(str++);
+    
     
          
     }
