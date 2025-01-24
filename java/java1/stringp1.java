@@ -44,8 +44,6 @@ public class stringp1 {
     // System.out.println(++c);
     //  System.out.println(b++);
     //  System.out.println(str++);
-    
-    
-         
-    }
+
+  
 }
